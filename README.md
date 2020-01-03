@@ -1,8 +1,10 @@
 # Emotion-Detector
 Identifies whether a person is happy or not
 
-Further tasks-
+To run it on your computer-
 
-1.Save learned parameters in a file
+1.Save Emotion.h5 and EmotionDetector.py file on your computer.
 
-2.Apply real time detection code
+2.Open window terminal at location where file is saved.
+
+3.Type python3 EmotionDetector.py and press enter. 
